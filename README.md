@@ -1,6 +1,6 @@
 # SpritedSocialLinks
 
-Handy snippet HTML for your social lists with 16x16 bullet image links.
+Handy HTML snippet for your social lists with 16x16 bullet image links.
 
 ## Demo
 
