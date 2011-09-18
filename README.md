@@ -4,7 +4,7 @@ Handy HTML snippet for your social lists with 16x16 bullet image links.
 
 ## Demo
 
-[Demo URL here]
+[http://tatygrassini.github.com/SpritedSocialLinks/](http://tatygrassini.github.com/SpritedSocialLinks/)
 
 ## Use it!
 
