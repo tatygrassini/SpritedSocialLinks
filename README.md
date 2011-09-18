@@ -12,36 +12,36 @@ Just grab it, ready to use for your web or app.
 
 ## Icons List
 
-* blinklist
-* brightkite
-* delicious
-* design_float
-* digg
-* dopplr
-* email
-* facebook
-* feed
-* flickr
-* friendfeed
-* furl
-* gamespot
-* lastfm
-* linkedin
-* magnolia
-* mixx
-* myspace
-* newsvine
-* posterous
-* reddit
-* sphere
-* sphinn
-* stumble
-* technorati
-* tripadvisor
-* tumblr
-* twitter
-* vimeo
-* youtube
+* BlinkList
+* Brightkite
+* Delicious
+* DesignFloat
+* Digg
+* Dopplr
+* Email
+* Facebook
+* Feed
+* Flickr
+* FriendFeed
+* Furl
+* GameSpot
+* Lastfm
+* LinkedIn
+* Magnolia
+* Mixx
+* MySpace
+* Newsvine
+* Posterous
+* Reddit
+* Sphere
+* Sphinn
+* Stumble
+* Technorati
+* TripAdvisor
+* Tumblr
+* Twitter
+* Vimeo
+* YouTube
 
 ## Icons credit
 [http://www.komodomedia.com/download/#social-media-mini-iconpack](http://www.komodomedia.com/download/#social-media-mini-iconpack)
